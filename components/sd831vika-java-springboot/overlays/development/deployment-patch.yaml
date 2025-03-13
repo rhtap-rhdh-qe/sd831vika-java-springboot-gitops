@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.rosa.kx-7e605e1b57.of7h.p3.openshiftapps.com/rhtap/rhtap-qe:jenkins-ff91755883a8497965df5a4fad2035108481fda9
+        - image: rhtap-quay-quay-rhtap-quay.apps.rosa.kx-7e605e1b57.of7h.p3.openshiftapps.com/rhtap/rhtap-qe:jenkins-00f5ded933114fc9d0cdf9cfc2f6128322285c68
           name: container-image
